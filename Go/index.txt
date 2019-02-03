@@ -1,1 +1,2 @@
 SendMailBySmtp     通过SMTP发送邮件
+PostFile2RD            POST文件/信息到Url接口
